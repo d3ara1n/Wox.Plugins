@@ -35,6 +35,9 @@ wpm install guidgen
  - `guid -b2`：中括号包裹
    - 结果：`[021f4f06-1e59-415a-b8e2-5f8f2fbf1aea]`
 
+ - `guid -g -l -u -b -b1 -b2`：混合用法
+   - 结果：`[({DC2DEFE7287048EBB150FA7FD6616265})]`
+
 
 ## Screenshots|屏幕截图
 
